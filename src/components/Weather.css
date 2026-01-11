@@ -73,3 +73,9 @@
     width: 26px;
     margin-top: 10px;
 }
+
+@media(max-width: 500px) {
+  .weather {
+    margin: 20px;
+  }
+}
